@@ -4,5 +4,6 @@ public class Main {
         //Відредаговано з браузера
         //Відредаговано з IDE
         //Проблему вирішено 03 03 21
+        //https://github.com/DanillVasylchenko/TCPP-VasylchenkoDanyilNazarovich-MainProject/issues/1
     }
 }

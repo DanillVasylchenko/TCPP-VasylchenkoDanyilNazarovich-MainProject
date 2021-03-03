@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b1acc24-4a0e-4b56-8bf5-d898c47ee8ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Test_project/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="9b1acc24-4a0e-4b56-8bf5-d898c47ee8ae" name="Default Changelist" comment="Змінено з IDE" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,6 +66,9 @@
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Repository creating" />
